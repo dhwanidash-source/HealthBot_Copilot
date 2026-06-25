@@ -1,0 +1,8 @@
+langchain
+langchain-core
+langgraph
+langchain-groq  
+sqlalchemy
+faiss-cpu
+pydantic
+python-dotenv
